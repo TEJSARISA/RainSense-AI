@@ -1,0 +1,135 @@
+{
+  "Random Forest": {
+    "accuracy": 0.8295,
+    "precision": 0.8652,
+    "recall": 0.7871,
+    "f1": 0.8243,
+    "roc_auc": 0.8884,
+    "cv_f1_mean": 0.7889,
+    "cv_f1_std": 0.0091,
+    "confusion_matrix": [
+      [
+        131,
+        19
+      ],
+      [
+        33,
+        122
+      ]
+    ]
+  },
+  "Gradient Boosting": {
+    "accuracy": 0.8262,
+    "precision": 0.8446,
+    "recall": 0.8065,
+    "f1": 0.8251,
+    "roc_auc": 0.8783,
+    "cv_f1_mean": 0.791,
+    "cv_f1_std": 0.0187,
+    "confusion_matrix": [
+      [
+        127,
+        23
+      ],
+      [
+        30,
+        125
+      ]
+    ]
+  },
+  "Decision Tree": {
+    "accuracy": 0.7902,
+    "precision": 0.7791,
+    "recall": 0.8194,
+    "f1": 0.7987,
+    "roc_auc": 0.8084,
+    "cv_f1_mean": 0.7716,
+    "cv_f1_std": 0.0209,
+    "confusion_matrix": [
+      [
+        114,
+        36
+      ],
+      [
+        28,
+        127
+      ]
+    ]
+  },
+  "Logistic Regression": {
+    "accuracy": 0.823,
+    "precision": 0.8633,
+    "recall": 0.7742,
+    "f1": 0.8163,
+    "roc_auc": 0.8958,
+    "cv_f1_mean": 0.7942,
+    "cv_f1_std": 0.019,
+    "confusion_matrix": [
+      [
+        131,
+        19
+      ],
+      [
+        35,
+        120
+      ]
+    ]
+  },
+  "TensorFlow/Keras Neural Network": {
+    "accuracy": 0.8131,
+    "precision": 0.8356,
+    "recall": 0.7871,
+    "f1": 0.8106,
+    "roc_auc": 0.8874,
+    "cv_f1_mean": 0.7908,
+    "cv_f1_std": 0.0161,
+    "confusion_matrix": [
+      [
+        126,
+        24
+      ],
+      [
+        33,
+        122
+      ]
+    ]
+  },
+  "XGBoost": {
+    "accuracy": 0.8295,
+    "precision": 0.8456,
+    "recall": 0.8129,
+    "f1": 0.8289,
+    "roc_auc": 0.8774,
+    "cv_f1_mean": 0.7877,
+    "cv_f1_std": 0.0183,
+    "confusion_matrix": [
+      [
+        127,
+        23
+      ],
+      [
+        29,
+        126
+      ]
+    ]
+  },
+  "LightGBM": {
+    "accuracy": 0.8262,
+    "precision": 0.8446,
+    "recall": 0.8065,
+    "f1": 0.8251,
+    "roc_auc": 0.8751,
+    "cv_f1_mean": 0.7881,
+    "cv_f1_std": 0.0185,
+    "confusion_matrix": [
+      [
+        127,
+        23
+      ],
+      [
+        30,
+        125
+      ]
+    ]
+  }
+}

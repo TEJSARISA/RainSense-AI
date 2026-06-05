@@ -1,0 +1,14 @@
+{
+  "features": [
+    "temperature",
+    "humidity",
+    "pressure",
+    "wind_speed",
+    "cloud_cover",
+    "sunshine_hours",
+    "month",
+    "season_encoded",
+    "temp_humidity_index",
+    "pressure_drop_signal"
+  ]
+}

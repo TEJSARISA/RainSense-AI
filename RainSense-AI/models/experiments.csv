@@ -1,0 +1,19 @@
+timestamp,model,artifact_path,accuracy,precision,recall,f1,roc_auc,cv_f1_mean,cv_f1_std
+2026-06-05T23:17:43.108780+00:00,Random Forest,/Users/chittinaidu/Documents/Pipeline Studio for  VectorShift/RainSense-AI/models/random_forest.joblib,0.82951,0.86525,0.7871,0.82432,0.88839,0.78894,0.00907
+2026-06-05T23:17:45.022528+00:00,Gradient Boosting,/Users/chittinaidu/Documents/Pipeline Studio for  VectorShift/RainSense-AI/models/gradient_boosting.joblib,0.82623,0.84459,0.80645,0.82508,0.87828,0.79101,0.01866
+2026-06-05T23:17:45.084411+00:00,Decision Tree,/Users/chittinaidu/Documents/Pipeline Studio for  VectorShift/RainSense-AI/models/decision_tree.joblib,0.79016,0.77914,0.81935,0.79874,0.80837,0.77155,0.02094
+2026-06-05T23:17:45.144068+00:00,Logistic Regression,/Users/chittinaidu/Documents/Pipeline Studio for  VectorShift/RainSense-AI/models/logistic_regression.joblib,0.82295,0.86331,0.77419,0.81633,0.89583,0.7942,0.01898
+2026-06-05T23:17:45.380013+00:00,Neural Network,/Users/chittinaidu/Documents/Pipeline Studio for  VectorShift/RainSense-AI/models/neural_network.joblib,0.81311,0.83562,0.7871,0.81063,0.8874,0.79081,0.0161
+2026-06-05T23:17:46.556024+00:00,XGBoost,/Users/chittinaidu/Documents/Pipeline Studio for  VectorShift/RainSense-AI/models/xgboost.joblib,0.82951,0.84564,0.8129,0.82895,0.87738,0.78768,0.01832
+2026-06-05T23:17:47.724675+00:00,LightGBM,/Users/chittinaidu/Documents/Pipeline Studio for  VectorShift/RainSense-AI/models/lightgbm.joblib,0.82623,0.84459,0.80645,0.82508,0.87514,0.78806,0.01851
+2026-06-05T23:18:33.689003+00:00,Random Forest,/Users/chittinaidu/Documents/Pipeline Studio for  VectorShift/RainSense-AI/models/random_forest.joblib,0.82951,0.86525,0.7871,0.82432,0.88839,0.78894,0.00907
+2026-06-05T23:18:35.747985+00:00,Gradient Boosting,/Users/chittinaidu/Documents/Pipeline Studio for  VectorShift/RainSense-AI/models/gradient_boosting.joblib,0.82623,0.84459,0.80645,0.82508,0.87828,0.79101,0.01866
+2026-06-05T23:18:35.803375+00:00,Decision Tree,/Users/chittinaidu/Documents/Pipeline Studio for  VectorShift/RainSense-AI/models/decision_tree.joblib,0.79016,0.77914,0.81935,0.79874,0.80837,0.77155,0.02094
+2026-06-05T23:18:35.898290+00:00,Logistic Regression,/Users/chittinaidu/Documents/Pipeline Studio for  VectorShift/RainSense-AI/models/logistic_regression.joblib,0.82295,0.86331,0.77419,0.81633,0.89583,0.7942,0.01898
+2026-06-05T23:18:51.201468+00:00,Random Forest,/Users/chittinaidu/Documents/Pipeline Studio for  VectorShift/RainSense-AI/models/random_forest.joblib,0.82951,0.86525,0.7871,0.82432,0.88839,0.78894,0.00907
+2026-06-05T23:18:52.886164+00:00,Gradient Boosting,/Users/chittinaidu/Documents/Pipeline Studio for  VectorShift/RainSense-AI/models/gradient_boosting.joblib,0.82623,0.84459,0.80645,0.82508,0.87828,0.79101,0.01866
+2026-06-05T23:18:52.957140+00:00,Decision Tree,/Users/chittinaidu/Documents/Pipeline Studio for  VectorShift/RainSense-AI/models/decision_tree.joblib,0.79016,0.77914,0.81935,0.79874,0.80837,0.77155,0.02094
+2026-06-05T23:18:53.025577+00:00,Logistic Regression,/Users/chittinaidu/Documents/Pipeline Studio for  VectorShift/RainSense-AI/models/logistic_regression.joblib,0.82295,0.86331,0.77419,0.81633,0.89583,0.7942,0.01898
+2026-06-05T23:18:53.284456+00:00,TensorFlow/Keras Neural Network,/Users/chittinaidu/Documents/Pipeline Studio for  VectorShift/RainSense-AI/models/tensorflow_keras_neural_network.joblib,0.81311,0.83562,0.7871,0.81063,0.8874,0.79081,0.0161
+2026-06-05T23:18:54.349547+00:00,XGBoost,/Users/chittinaidu/Documents/Pipeline Studio for  VectorShift/RainSense-AI/models/xgboost.joblib,0.82951,0.84564,0.8129,0.82895,0.87738,0.78768,0.01832
+2026-06-05T23:18:55.467222+00:00,LightGBM,/Users/chittinaidu/Documents/Pipeline Studio for  VectorShift/RainSense-AI/models/lightgbm.joblib,0.82623,0.84459,0.80645,0.82508,0.87514,0.78806,0.01851

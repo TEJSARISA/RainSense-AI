@@ -1,0 +1,19 @@
+{
+  "model_name": "XGBoost",
+  "version": "2026.06.05.231855",
+  "trained_at": "2026-06-05T23:18:55.472327+00:00",
+  "target": "rain",
+  "rows": 1386,
+  "features": [
+    "temperature",
+    "humidity",
+    "pressure",
+    "wind_speed",
+    "cloud_cover",
+    "sunshine_hours",
+    "month",
+    "season_encoded",
+    "temp_humidity_index",
+    "pressure_drop_signal"
+  ]
+}
